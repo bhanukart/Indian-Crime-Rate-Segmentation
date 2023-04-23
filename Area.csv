@@ -1,0 +1,37 @@
+Sno,State,Area,Region
+1 (S1),Rajasthan,342239,Western
+2 (S2),Madhya Pradesh,308245,Central
+3 (S3),Maharashtra,307713,Western
+4 (S4),Uttar Pradesh,240928,Northern
+5 (S5),Gujarat,196024,Western
+6 (S6),Karnataka,191792,Southern
+7 (UT1),Ladakh,174975,Northern
+8 (S7),Andhra Pradesh,162986,Southern
+9 (S8),Odisha,155814,Eastern
+10 (S9),Chhattisgarh,135707,Central
+11 (S10),Tamilnadu,130635,Southern
+12 (S11),Telangana,122079,Southern
+13 (S12),Bihar,94163,Central
+14 (S13),West Bengal,88752,Eastern
+15 (S14),Arunachal Pradesh,79546,Northeastern
+16 (S15),Jharkhand,79438,Central
+17 (S16),Assam,78146,Northeastern
+18 (UT2),Jammu and Kashmir,55673,Northern
+19 (S17),Himachal Pradesh,55483,Northern
+20 (S18),Uttarakhand,53362,Northern
+21 (S19),Punjab,50212,Northern
+22 (S20),Haryana,44241,Northern
+23 (S21),Kerala,38863,Southern
+24 (S22),Meghalaya,22429,Northeastern
+25 (S23),Manipur,22327,Northeastern
+26 (S24),Mizoram,21081,Northeastern
+27 (S25),Nagaland,16579,Northeastern
+28 (S26),Tripura,10486,Northeastern
+29 (UT3),Andaman and Nicobar Islands,8249,Bay of Bengal
+30 (S27),Sikkim,7096,Northeastern
+31 (S28),Goa,3702,Western
+32 (UT4),Delhi,1484,Northern
+33 (UT5),Dadra and Nagar Haveli and Daman and Diu,603,Western
+34 (UT6),Puducherry,479,Southern
+35 (UT7),Chandigarh,114,Northern
+36 (UT8),Lakshadweep,32,Arabian Sea
